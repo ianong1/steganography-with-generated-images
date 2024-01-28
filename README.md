@@ -3,7 +3,7 @@
 This is the code for the paper "Steganography with Generated Images: Leveraging Volatility to Enhance Security" (TDSC 2023).
 
 
-![framework](imgs/framework.jpg)
+![framework](framework.png)
 
 # Citing
 
