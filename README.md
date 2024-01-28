@@ -5,6 +5,9 @@ This is the code for the paper "Steganography with Generated Images: Leveraging 
 
 ![framework](framework.png)
 
+# Running the code
+Please refer to run.sh 
+
 # Citing
 
 If you find this repository useful for your work, please consider citing it as follows:
